@@ -1,1 +1,9 @@
-This is README
+FlightTally will be Sport Flying registration system
+
+This system will be web based application writen in PHP and based on Nette Frameword.
+For installation you can use script tools/nette-install.
+
+After installation:
+    * add host into /etc/hosts
+    * register in apache /etc/apache2/sites-enabled
+
